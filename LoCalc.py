@@ -1,3 +1,6 @@
+#Author: hyper
+#Date: 25 Dec. 2022
+
 import os
 from util.logging import *
 ___CONFIG___ = {
