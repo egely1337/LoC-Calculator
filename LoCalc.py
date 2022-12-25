@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #Author: hyper
 #Date: 25 Dec. 2022
 
